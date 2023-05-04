@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Manav Shrivastava</h1>
+<h3 align="center">Software Architect</h3>
 
-<!--
-**manavshrivastavagit/manavshrivastavagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manavshrivastavagit&label=Profile%20views&color=0e75b6&style=flat" alt="manavshrivastava" /> </p>
 
-Here are some ideas to get you started:
+## Linkedin 🔗
+<p align="left">
+<a href="https://www.linkedin.com/in//manav-shrivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavshrivastava" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MySkills 🚀
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,AWS,py,django,flask,fastapi,selenium,linux,redis,postgres,nginx,mysql,git,docker,bash,js)](https://skillicons.dev)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavshrivastavagit&show_icons=true&theme=dark&locale=en" alt="manavshrivastavagit" /></p>
