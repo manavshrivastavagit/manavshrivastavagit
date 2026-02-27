@@ -56,6 +56,6 @@ Building the bridge between research and production—from training pipelines to
 
 <div align="center">
 
-*"First solve the problem. Then write the code."* — John Johnson
+*"Scale the system in your head before you scale it in the cloud."* — Manav Shrivastava
 
 </div>
