@@ -2,7 +2,7 @@
 
 ### **Manav Shrivastava**
 
-**Tech Architect** · DS · ML · AI · Systems
+**Enterprise Solution Architect** · DS · ML · AI · Systems
 
 *Bangalore, India*
 
