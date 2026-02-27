@@ -44,8 +44,8 @@ Building the bridge between research and production—from training pipelines to
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manavshrivastavagit&theme=dark&background=0D1117&border=30363D)](https://github.com/manavshrivastavagit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavshrivastavagit&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/manavshrivastavagit)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manavshrivastavagit&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&hide_border=true)](https://github.com/manavshrivastavagit)
+[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=manavshrivastavagit&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/manavshrivastavagit)
+[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=manavshrivastavagit&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&hide_border=true)](https://github.com/manavshrivastavagit)
 
 ![Profile views](https://komarev.com/ghpvc/?username=manavshrivastavagit&color=58a6ff&style=flat-square&label=profile+views)
 
