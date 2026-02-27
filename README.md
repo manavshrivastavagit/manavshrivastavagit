@@ -1,14 +1,60 @@
-<h1 align="center">Hi 👋, I'm Manav Shrivastava</h1>
-<h3 align="center">Software Architect</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manavshrivastavagit&label=Profile%20views&color=0e75b6&style=flat" alt="manavshrivastava" /> </p>
+### **Manav Shrivastava**
 
-## Linkedin 🔗
-<p align="left">
-<a href="https://www.linkedin.com/in//manav-shrivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavshrivastava" height="30" width="40" /></a>
-</p>
+**Tech Architect** · DS · ML · AI · Systems
 
-## MySkills 🚀
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,aws,k8s,pytorch,py,django,flask,fastapi,selenium,linux,redis,postgres,nginx,mysql,git,docker,bash,js)](https://skillicons.dev)
+*Bangalore, India*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavshrivastavagit&show_icons=true&theme=dark&locale=en" alt="manavshrivastavagit" /></p>
+---
+
+**I design systems that scale and models that think.**
+
+Building the bridge between research and production—from training pipelines to APIs that serve them.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manav_Shrivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavshrivastava/)
+[![Twitter](https://img.shields.io/badge/Twitter-@manavshrivastavagit-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/manavshrivastavagit)
+
+</div>
+
+---
+
+#### **Stack I ship with**
+
+| **ML & Data** | **Backend & APIs** | **Infra & Ops** |
+|:---:|:---:|:---:|
+| PyTorch · TensorFlow | Python · FastAPI · Django | AWS · Kubernetes · Docker |
+| Training & inference | Redis · Postgres · MySQL | Linux · Nginx · Git |
+
+[![Skill Icons](https://skillicons.dev/icons?i=tensorflow,pytorch,py,aws,k8s,docker,django,fastapi,flask,redis,postgres,nginx,linux,git,bash,js)](https://skillicons.dev)
+
+---
+
+#### **What I'm up to**
+
+- Contributing to **Hugging Face Transformers** (open source)
+- Designing and implementing **ML systems** and **data pipelines**
+- Turning papers and prototypes into **production-grade services**
+
+---
+
+#### **GitHub snapshot**
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manavshrivastavagit&theme=dark&background=0D1117&border=30363D)](https://github.com/manavshrivastavagit)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavshrivastavagit&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/manavshrivastavagit)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manavshrivastavagit&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&hide_border=true)](https://github.com/manavshrivastavagit)
+
+![Profile views](https://komarev.com/ghpvc/?username=manavshrivastavagit&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First solve the problem. Then write the code."* — John Johnson
+
+</div>
