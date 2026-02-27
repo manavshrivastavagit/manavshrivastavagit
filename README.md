@@ -4,8 +4,6 @@
 
 **Enterprise Solution Architect** · DS · ML · AI · Systems
 
-*Bangalore, India*
-
 ---
 
 **I design systems that scale and models that think.**
