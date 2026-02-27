@@ -2,7 +2,7 @@
 
 ### **Manav Shrivastava**
 
-**Enterprise Solution Architect** · DS · ML · AI · Systems
+**Enterprise Solution Architect** · DS · ML · GenAI · LLMs · Systems
 
 ---
 
@@ -19,10 +19,12 @@ Building the bridge between research and production—from training pipelines to
 
 #### **Stack I ship with**
 
-| **ML & Data** | **Backend & APIs** | **Infra & Ops** |
+| **ML & GenAI** | **Backend & APIs** | **Infra & Cloud** |
 |:---:|:---:|:---:|
-| PyTorch · TensorFlow | Python · FastAPI · Django | AWS · Kubernetes · Docker |
-| Training & inference | Redis · Postgres · MySQL | Linux · Nginx · Git |
+| PyTorch · TensorFlow · **LLMs** · **RAG** · **LangGraph** · **vLLM** · **NeMo** | Python · FastAPI · Django | **AWS** · **Azure** · **GCP** · Kubernetes · Docker |
+| LLM interfacing & training · inference at scale | Redis · Postgres · MySQL | Linux · Nginx · Git |
+
+*GenAI · scalability · production LLM systems*
 
 [![Skill Icons](https://skillicons.dev/icons?i=tensorflow,pytorch,py,aws,k8s,docker,django,fastapi,flask,redis,postgres,nginx,linux,git,bash,js)](https://skillicons.dev)
 
@@ -31,8 +33,9 @@ Building the bridge between research and production—from training pipelines to
 #### **What I'm up to**
 
 - Contributing to **Hugging Face Transformers** (open source)
-- Designing and implementing **ML systems** and **data pipelines**
-- Turning papers and prototypes into **production-grade services**
+- Building **GenAI** systems: **RAG**, **LangGraph**, **vLLM**, **NeMo** — interfacing, training, and scaling LLMs
+- Designing **ML systems** and **data pipelines** for **Azure** & **GCP**
+- Turning papers and prototypes into **production-grade**, scalable services
 
 ---
 
