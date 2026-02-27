@@ -13,7 +13,7 @@
 Building the bridge between research and production—from training pipelines to APIs that serve them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manav_Shrivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-shrivastava/)
-[![Twitter](https://img.shields.io/badge/Twitter-@manavshrivastavagit-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/manavshrivastavagit)
+[![X](https://img.shields.io/badge/X-@manavshrivastva-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manavshrivastva)
 
 </div>
 
